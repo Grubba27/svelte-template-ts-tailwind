@@ -1,7 +1,7 @@
 
 ## This is a custom template
 
-it includes the basic todo app from SvelteKit and Tailwind preconfigured.
+it includes the basic todo app from SvelteKit and Tailwind, Husky preconfigured.
 
 ## Installing
 

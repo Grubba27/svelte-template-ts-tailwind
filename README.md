@@ -3,6 +3,16 @@
 
 it includes the basic todo app from SvelteKit and Tailwind preconfigured.
 
+## Installing
+
+```bash
+git https://github.com/Grubba27/svelte-template-ts-tailwind.git
+
+npm i
+```
+
+## Running
+
 ```bash
 # or start the server and open the app in a new browser tab
 npm run dev -- --open

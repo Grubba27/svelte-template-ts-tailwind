@@ -4,7 +4,10 @@
 it includes the basic todo app from SvelteKit and Tailwind preconfigured.
 
 ## Installing
+
 ```bash
+git https://github.com/Grubba27/svelte-template-ts-tailwind.git
+
 npm i
 ```
 
